@@ -35,6 +35,14 @@ same with setup 2, with cpu disable SMT
 
 50-52 fps, sees some 53, so 1-3 fps boost
 
+setup 4:
+disabled all visualfix mods 
+sun flickering reduced
+but wall inside temple start to flickering
+bootup time 40s
+loading time
+
+
 bugs:
 1. flickering before the first teleport
 2. strange text in ( 3409 -2462 0249 )
