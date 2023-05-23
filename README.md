@@ -23,9 +23,17 @@ FPS drops to 41 while shader compling, avg. 47-48 both rainning and sunshine day
 
 setup 2:
 mod change to chuck dFPS
-bootup time 34s loading time 35s
+bootup time 34s + 10s if use layedFS fxaa mod 
+loading time 35s ingame loading time no change if use layeredFS mod
 
 FPS drop to 42 while compling, 47-48 avg
+
+avg 49-50fps if disable fxaa
+
+setup 3:
+same with setup 2, with cpu disable SMT
+
+50-52 fps, sees some 53, so 1-3 fps boost
 
 bugs:
 1. flickering before the first teleport
